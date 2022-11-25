@@ -1,2 +1,3 @@
-# Udemy-Data-visualisation-and-analysis
-👉 This project aims to:
+![alt text](https://myelearningworld.com/wp-content/uploads/2022/06/udemy-review.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-1)
+
+#### <div style="text-align: left; background-color: #BB4ED8 ; font-family: Trebuchet MS; color: black; padding: 15px; line-height:1;border-radius:1px; margin-bottom: 0em; text-align: font-size: 25px">This notebook tries to do tasks using the dataset from the learning portal <b><u>UDEMY</u></b>.<li>Cleansing and processing of data</li><li>Learn to view data using libraries.</li><li>Visualize data and explain how different attributes are correlated.</li></div>
