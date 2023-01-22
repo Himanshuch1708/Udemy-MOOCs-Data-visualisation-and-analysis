@@ -1,3 +1,10 @@
-![alt text](https://myelearningworld.com/wp-content/uploads/2022/06/udemy-review.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-1)
+![alt-text](https://github.com/Himanshuch1708/Udemy-Data-visualisation-and-analysis/blob/main/Udemy-backend/Udemy_Dashboard.png)
 
-#### <div style="text-align: left; background-color: #BB4ED8 ; font-family: Trebuchet MS; color: black; padding: 15px; line-height:1;border-radius:1px; margin-bottom: 0em; text-align: font-size: 25px">This notebook tries to do tasks using the dataset from the learning portal <b><u>UDEMY</u></b>.<li>Cleansing and processing of data</li><li>Learn to view data using libraries.</li><li>Visualize data and explain how different attributes are correlated.</li></div>
+
+-This project utilized Python, data analysis, SQL, and Tableau to generate a dashboard and conduct a comparison of MOOCs offered by Udemy and its competitors.
+<br>
+-Summary of the MOOCs, their features and pricing were collected and analyzed using SQL and Python.
+<br>
+-Data visualization techniques were applied using Tableau to create an interactive dashboard which allows to explore the comparison in a user-friendly way.
+<br>
+-Outcomes of the project includes a deeper understanding of the MOOCs market, and the ability to compare Udemy's offerings to those of its competitors in an easy-to-use and visually appealing format.
